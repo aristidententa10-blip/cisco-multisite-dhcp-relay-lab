@@ -1,6 +1,6 @@
 # cisco-multisite-dhcp-relay-lab
 Infrastructure réseau multi-sites sous Cisco Packet Tracer (Routage statique, Relais DHCP, Segmentation VLSM)
-# 🌐 Enterprise Multi-Site Network Architecture Lab
+# 🌐 Entreprise Multi-Site Network Architecture Lab
 
 ![Network Topology](./topology.png)
 
